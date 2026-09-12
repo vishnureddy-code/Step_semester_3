@@ -1,4 +1,4 @@
-package src.main.java.java_basics.class_problems;
+package main.java.java_basics.class_problems;
 import java.util.Scanner;
 
 public class Game {
@@ -17,6 +17,7 @@ public class Game {
             System.out.println("Result: " + checkWinner(player, computer)); // Display the winner[cite: 2]
             System.out.println("-----------------");
         }
+        sc.close();
     }
 
     public static String checkWinner(String p, String c) {

@@ -1,4 +1,4 @@
-package src.main.java.java_basics.class_problems;
+package main.java.java_basics.class_problems;
 
 public class BMI {
 
